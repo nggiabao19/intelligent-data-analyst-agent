@@ -1,4 +1,4 @@
-# 🤖 Intelligent Data Analyst Agent
+# Intelligent Data Analyst Agent
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-orange?style=for-the-badge)
@@ -135,7 +135,6 @@ intelligent-data-analyst/
     ```
 
 5.  **Run the Application**
-
     ```bash
     streamlit run app.py
     ```
@@ -145,12 +144,10 @@ intelligent-data-analyst/
 
 
 ## Future Improvements
-
   * Add support for Local LLMs (Llama 3, Mistral) via Ollama.
   * Integrate "Human-in-the-loop" to allow users to modify the analysis plan before execution.
   * Support more data formats (Excel, JSON, SQL Databases).
 
 ## Author
-
-**Nguyen Gia Bao**
+*Nguyen Gia Bao*
 
