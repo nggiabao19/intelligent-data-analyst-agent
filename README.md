@@ -24,7 +24,7 @@ It simulates a real-world Data Team, where specialized agents (Cleaner, Analyst,
 The system follows a directed cyclic graph (DAG) workflow with conditional routing and parallel processing.
 
 ```mermaid
-graph LR
+graph TD 
     %% Define Styles
     classDef user fill:#e1f5ff,stroke:#01579b,stroke-width:3px
     classDef guard fill:#fff3e0,stroke:#e65100,stroke-width:2px
