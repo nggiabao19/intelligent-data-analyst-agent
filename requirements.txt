@@ -10,6 +10,7 @@ fpdf
 langchain
 langchain-openai
 langchain-community
+langchain-experimental
 langgraph
 
 # OpenAI
